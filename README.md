@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milanwaghmare
 - 👀 I’m interested to crack and explore data world
 - 🌱 I’m currently learning AI machine learning , Data Science 
-- 💞️ I’m looking to collaborate on real time solutions on Data 
+- 💞️ I’m looking to collaborate on real time solutions on Data and Job opportunities as Data Analyst
 - 📫 How to reach me milanwaghmare@yahoo.com
 
 
